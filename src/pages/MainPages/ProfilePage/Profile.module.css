@@ -1,0 +1,15 @@
+.items {
+  display: flex;
+  flex-wrap: wrap;
+}
+h2 {
+  font-size: 18px;
+  margin: 20px 0;
+}
+p {
+  font-size: 16px;
+  font-weight: 500;
+}
+p > span {
+  color: red;
+}

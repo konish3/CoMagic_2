@@ -1,0 +1,30 @@
+.btn {
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #fde047;
+}
+.card {
+  margin: 10px;
+}
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  p {
+    margin-right: 20px;
+  }
+}
+.titleItem {
+  font-size: 16px;
+  margin: 20px 0 10px 0;
+}
+.slider {
+  display: flex;
+}
+.checkbox {
+  display: flex;
+  flex-direction: column;
+}
+.require {
+  color: red;
+}

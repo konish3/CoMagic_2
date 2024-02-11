@@ -1,0 +1,22 @@
+.imgcard {
+  height: 200px;
+  object-fit: cover;
+  padding: 10px;
+}
+.actionsCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.price {
+  margin-right: 10px;
+}
+.btn {
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: #fde047;
+}
+.titleCard {
+  font-size: 20px !important;
+  font-weight: 900;
+}
